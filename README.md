@@ -11,8 +11,6 @@
 🎯 Faço análise de negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders. Resolvo problemas de negócios orientado a resultados.
 
 :electron: Graduada em Biomedicina e estudante de Bioinformática.
-
-
 <br/>
 <br/>
 
