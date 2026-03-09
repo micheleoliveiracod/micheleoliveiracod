@@ -222,13 +222,13 @@
 
 ### Machine Learning
 
-- [Case_analise_preditiva_churn](https://github.com/micheleoliveiraacod/Case_analise_preditiva_churn)
+- [Case_analise_preditiva_churn](https://github.com/micheleoliveiracod/Case_analise_preditiva_churn)
 
-- [Case_analise_preditiva_credito](https://github.com/micheleoliveiraacod/Case_analise_preditiva_credito)
+- [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
 
 ### Bioinformática
 
-- [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiraacod/Case_COVID19_dados_clinicos_2025)
+- [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
 
 
 
