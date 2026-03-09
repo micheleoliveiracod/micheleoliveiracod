@@ -4,11 +4,7 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📍 Tenho MBA em AI, Data Science e Big Data, experiência em mapeamento de processos, gestão de projetos e ações de melhoria contínua.
-
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos prescritivos e preditivos com algoritmos de Machine Learning.
-
-🎯 Faço análise de negócios para alinhamento de OKR's, KPI's e métricas, com base no plano estratégico da empresa e necessidades mapeadas com stakeholders. Resolvo problemas de negócios orientado a resultados.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados epidemiológicos e biológicos.
 
 :electron: Graduada em Biomedicina e estudante de Bioinformática.
 <br/>
