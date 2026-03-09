@@ -145,7 +145,6 @@
 <br/>
 <br/>
 
-
 <img
     align="left"
     alt="Spark"
@@ -171,23 +170,7 @@
     src="https://www.svgrepo.com/download/353809/google-data-studio.svg" 
 />
 <img
-    align="left" 
-    alt="Google Cloud" 
-    title="Google Cloud"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-/>
-<img
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img
-    align="left" 
+    align="left"
     alt="Git" 
     title="Git"
     width="30px" 
