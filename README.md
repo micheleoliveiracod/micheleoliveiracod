@@ -226,7 +226,7 @@
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
 
-### Bioinformática
+### Análise de dados epidemiológicos
 
 - [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
 
