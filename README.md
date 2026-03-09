@@ -94,14 +94,6 @@
 />
 <img 
     align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   
-/>
-<img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -140,11 +132,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
-
-<br/>
-<br/>
-<br/>
-
 <img
     align="left"
     alt="Spark"
@@ -153,6 +140,11 @@
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 />
+
+<br/>
+<br/>
+<br/>
+
 <img
     align="left" 
     alt="PowerBI" 
@@ -197,7 +189,7 @@
 <br/>                                                
 ## 🗃️ Indice dos Repositórios
 
-### Análise de Dados de Negócios
+### Análise e visualização de Dados
 
 ### Machine Learning
 
