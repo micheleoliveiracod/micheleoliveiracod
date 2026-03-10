@@ -4,7 +4,7 @@
 
 # Olá, seja bem-vindo(a) ao meu espaço! :gem:
 
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados epidemiológicos e biológicos.
+📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados de negócio, epidemiológicos e biológicos.
 
 :electron: Graduada em Biomedicina e estudante de Bioinformática.
 <br/>
