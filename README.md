@@ -6,7 +6,13 @@
 
 📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados de negócio, epidemiológicos e biológicos.
 
-:electron: Graduada em Biomedicina e estudante de Bioinformática.
+## 🎓 Formação
+
+Graduação Biomedicina - Univali
+<br/>
+MBA em Tecnologia para Negócios: AI, Data Science e Big Data - PUC RS
+<br/>
+Pós Graduação Bioinformática - PUC Minas
 <br/>
 <br/>
 
