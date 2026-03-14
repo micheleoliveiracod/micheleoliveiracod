@@ -209,7 +209,7 @@ Pós Graduação Bioinformática - PUC Minas
 
 ### Bioinformática
 
-- [Pratica_alinhamento_nucleotideos](https://github.com/micheleoliveiracod/Pratica_alinhamento_nucleotideos)
+- [Pratica_alinhamento_DNA](https://github.com/micheleoliveiracod/Pratica_alinhamento_DNA)
 
 
 <div align="center">
