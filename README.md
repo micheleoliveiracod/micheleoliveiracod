@@ -207,6 +207,9 @@ Pós Graduação Bioinformática - PUC Minas
 
 - [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
 
+### Bioinformática
+
+- [Pratica_alinhamento_nucleotideos](https://github.com/micheleoliveiracod/Pratica_alinhamento_nucleotideos)
 
 
 <div align="center">
