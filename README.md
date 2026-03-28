@@ -6,9 +6,6 @@
 
 📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados de negócio, epidemiológicos e biológicos.
 
-## 🎯 Áreas de Atuação
-Indústria de bioinsumos microbiológicos, gestão da qualidade e indicadores de performance para monirtorar estratégias de negócios. Bioinformática para análise genômica.
-
 ## 🎓 Formação
 
 Graduação Biomedicina - Univali
