@@ -195,7 +195,12 @@ Pós Graduação Bioinformática - PUC Minas
 <br/>                                                
 ## 🗃️ Indice dos Repositórios
 
-### Análise e visualização de Dados
+### Análise e Visualização de Dados
+
+- 
+- 
+-  
+- [Case_dados_hospitalares](https://github.com/micheleoliveiracod/Case_dados_hospitalares)
 
 ### Machine Learning
 
