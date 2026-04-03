@@ -100,6 +100,14 @@ Pós Graduação Bioinformática - PUC Minas
 />
 <img 
     align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/>
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -138,6 +146,11 @@ Pós Graduação Bioinformática - PUC Minas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
+
+<br/>
+<br/>
+<br/>
+
 <img
     align="left"
     alt="Spark"
@@ -146,11 +159,6 @@ Pós Graduação Bioinformática - PUC Minas
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 />
-
-<br/>
-<br/>
-<br/>
-
 <img
     align="left" 
     alt="PowerBI" 
@@ -161,8 +169,8 @@ Pós Graduação Bioinformática - PUC Minas
 />
 <img
     align="left" 
-    alt="Looker" 
-    title="Looker"
+    alt="Google Data Studio" 
+    title="Google Data Studio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/download/353809/google-data-studio.svg" 
