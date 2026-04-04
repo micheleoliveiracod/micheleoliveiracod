@@ -203,7 +203,7 @@ Pós Graduação Bioinformática - PUC Minas
 <br/>                                                
 ## 🗃️ Indice dos Repositórios
 
-### Análise e Visualização de Dados
+### Analytics
 
 - 
 - 
@@ -216,7 +216,11 @@ Pós Graduação Bioinformática - PUC Minas
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
 
-### Análise de dados epidemiológicos
+### AI Projects
+
+- [Curso-IA-para-DEVs-SENAI](https://github.com/micheleoliveiracod/Curso-IA-para-DEVs-SENAI)
+
+### Epidemiologia
 
 - [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
 
