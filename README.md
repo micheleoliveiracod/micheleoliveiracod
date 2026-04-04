@@ -12,7 +12,7 @@ Graduação Biomedicina - Univali
 <br/>
 MBA em Tecnologia para Negócios: AI, Data Science e Big Data - PUC RS
 <br/>
-Pós Graduação Bioinformática - PUC Minas
+Pós Graduação Bioinformática Aplicada a Saúde - PUC Minas
 <br/>
 <br/>
 
