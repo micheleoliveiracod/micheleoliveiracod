@@ -218,7 +218,7 @@ Pós Graduação Bioinformática Aplicada a Saúde - PUC Minas
 
 ### AI Projects
 
-- [Curso-IA-para-DEVs-SENAI](https://github.com/micheleoliveiracod/Curso-IA-para-DEVs-SENAI)
+- [Curso-IA-para-DEVs-SD](https://github.com/micheleoliveiracod/Curso-IA-para-DEVs-SD)
 
 ### Epidemiologia
 
