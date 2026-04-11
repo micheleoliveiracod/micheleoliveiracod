@@ -16,7 +16,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 <br/>
 <br/>
 
-## 🌐 Linguagens e Tecnologias
+## 🌐 Languages ​​and Technologies
 
 <img
     align="left" 
