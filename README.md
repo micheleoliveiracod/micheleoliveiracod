@@ -213,7 +213,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 ### Analytics
 
-- [Case_dados_hospitalares](https://github.com/micheleoliveiracod/Case_dados_hospitalares)
+- [Hospital_data_case](https://github.com/micheleoliveiracod/Hospital_data_case)
 
 ### Machine Learning
 
