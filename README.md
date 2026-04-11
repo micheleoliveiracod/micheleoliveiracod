@@ -2,17 +2,17 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-# Olá, seja bem-vindo(a)! :gem:
+# Hello, welcome to my space! :gem:
 
-📈 Trabalho com análise, visualização e ciência de dados, criando modelos preditivos e prescritivos com algoritmos de Machine Learning. Faço análises de dados de negócio, epidemiológicos e biológicos.
+📈 I work with data analysis, visualization, and data science, creating predictive and prescriptive models using machine learning algorithms. I perform analyses of business, epidemiological, and biological data.
 
 ## 🎓 Formação
 
-Graduação Biomedicina - Univali
+Biomedical Sciences Degree - Univali
 <br/>
-MBA em Tecnologia para Negócios: AI, Data Science e Big Data - PUC RS Escola de Negócios
+MBA in Technology for Business: AI, Data Science and Big Data - PUC RS Business School
 <br/>
-Pós Graduação Bioinformática Aplicada a Saúde - PUC Minas
+Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 <br/>
 <br/>
 
@@ -209,7 +209,7 @@ Pós Graduação Bioinformática Aplicada a Saúde - PUC Minas
 />
 <br/>
 <br/>                                                
-## 🗃️ Indice dos Repositórios
+## 🗃️ List of repositories
 
 ### Analytics
 
@@ -221,11 +221,11 @@ Pós Graduação Bioinformática Aplicada a Saúde - PUC Minas
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
 
-### Epidemiologia
+### Epidemiology
 
 - [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
 
-### Bioinformática
+### Bioinformatics
 
 - [Pratica_alinhamento_DNA](https://github.com/micheleoliveiracod/Pratica_alinhamento_DNA)
 
