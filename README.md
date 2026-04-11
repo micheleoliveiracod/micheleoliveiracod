@@ -52,8 +52,8 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 />
 <img
     align="left" 
-    alt="Jupiter" 
-    title="Jupiter"
+    alt="Jupyter" 
+    title="Jupyter"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
