@@ -6,7 +6,7 @@
 
 📈 I work with data analysis, visualization, and data science, creating predictive and prescriptive models using machine learning algorithms. I perform analyses of business, epidemiological, and biological data.
 
-## 🎓 Formação
+## 🎓 Academic background
 
 Biomedical Sciences Degree - Univali
 <br/>
