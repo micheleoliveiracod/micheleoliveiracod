@@ -215,11 +215,17 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 - [Hospital_data_case](https://github.com/micheleoliveiracod/Hospital_data_case)
 
+- [Agro-productivity-analysis](https://github.com/micheleoliveiracod/Agro-productivity-analysis)
+
 ### Machine Learning
 
 - [Case_analise_preditiva_churn](https://github.com/micheleoliveiracod/Case_analise_preditiva_churn)
 
 - [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
+
+### AI Agents & LLM's
+
+- [course-IA-for-DEVs-SD](https://github.com/micheleoliveiracod/course-IA-for-DEVs-SD)
 
 ### Epidemiology
 
