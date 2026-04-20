@@ -217,6 +217,8 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 - [Agro-productivity-analysis](https://github.com/micheleoliveiracod/Agro-productivity-analysis)
 
+- [Biopharmaceutical_manufacturing_analysis](https://github.com/micheleoliveiracod/Biopharmaceutical_manufacturing_analysis)
+
 ### Machine Learning
 
 - [Case_analise_preditiva_churn](https://github.com/micheleoliveiracod/Case_analise_preditiva_churn)
