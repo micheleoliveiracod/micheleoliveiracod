@@ -227,7 +227,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 ### AI Agents & LLM's
 
-- [course-IA-for-DEVs-SD](https://github.com/micheleoliveiracod/course-IA-for-DEVs-SD)
+- [course-IA-for-DEVs-SCTEC](https://github.com/micheleoliveiracod/course-IA-for-DEVs-SCTEC)
 
 ### Epidemiology
 
