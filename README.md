@@ -92,6 +92,22 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 />
 <img 
     align="left" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Fastapi" 
+    title="Fastapi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/>
+<img 
+    align="left" 
     alt="Scikitlearn" 
     title="Scikitlearn"
     width="30px" 
@@ -122,21 +138,13 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
   />
-<img
-    align="left" 
-    alt="MLflow" 
-    title="MLflow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg"
-/>
-<img
+  <img
     align="left"
-    alt="Hadoop"
-    title="Hadoop"
+    alt="Spark"
+    title="Spark"
     width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 />
 <img
     align="left" 
@@ -145,19 +153,6 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-
-<br/>
-<br/>
-<br/>
-
-<img
-    align="left"
-    alt="Spark"
-    title="Spark"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 />
 <img
     align="left" 
@@ -183,6 +178,9 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
+<br/>
+<br/>
+<br/>
 <img
     align="left"
     alt="Git" 
