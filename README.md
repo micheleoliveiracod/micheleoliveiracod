@@ -179,40 +179,6 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <br/>
-<br/>
-<img
-    align="left"
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Spyder" 
-    title="Spyder"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg"
-/>
-<img
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img
-    align="left" 
-    alt="Notion" 
-    title="Notion"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/>
-<br/>
 <br/>                                                
 ## 🗃️ List of repositories
 
