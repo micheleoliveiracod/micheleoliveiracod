@@ -118,7 +118,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     align="left" 
     alt="TensorFlow" 
     title="TensorFlow"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 />
@@ -134,7 +134,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     align="left" 
     alt="Airflow" 
     title="Airflow"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
   />
@@ -158,7 +158,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
 />
@@ -166,7 +166,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     align="left" 
     alt="Google Data Studio" 
     title="Google Data Studio"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/download/353809/google-data-studio.svg" 
 />
@@ -174,12 +174,13 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     align="left"
     alt="Figma" 
     title="Figma"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <br/>
-<br/>                                                
+<br/>      
+<br/>                                          
 ## 🗃️ List of repositories
 
 ### Analytics
