@@ -154,6 +154,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
+<br/> 
 <img
     align="left" 
     alt="PowerBI" 
@@ -180,7 +181,6 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 />
 <br/>
 <br/>      
-<br/>  
 <br/>  
 ## 🗃️ List of repositories
 
