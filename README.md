@@ -196,7 +196,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 ### AI Agents & LLM's
 
-- [BioPredict-AI](https://github.com/micheleoliveiracod/BioPredict-AI) (AI para DEVS SCTEC)
+- [BioPredict-AI](https://github.com/micheleoliveiracod/BioPredict-AI)
 
 ### Epidemiology
 
