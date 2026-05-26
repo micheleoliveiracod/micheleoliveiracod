@@ -196,7 +196,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 
 ### AI Agents & LLM's
 
-- [BiotecPredict](https://github.com/micheleoliveiracod/BiotecPredict)
+- 
 
 ### Epidemiology
 
