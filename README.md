@@ -18,7 +18,7 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 <br/>
 AI in the Software Development Process Course - SCTEC/SENAI
 <br/>
-AI Agents for Software Development and AI for Software Quality - SCTEC/SENAI
+AI Agents for Software Development and AI for Software Quality Course - SCTEC/SENAI
 <br/>
 
 ## 🌐 Languages ​​and Technologies
