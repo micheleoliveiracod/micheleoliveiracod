@@ -197,7 +197,7 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
     align="left" 
     alt="Javascript" 
     title="Javascript"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
@@ -205,9 +205,25 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
     align="left" 
     alt="Typescript" 
     title="Typescript"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left" 
+    alt="TailwindCSS"
+    title="TailwindCSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img
     align="left" 
@@ -216,14 +232,6 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left" 
-    alt="Tailwindcss"
-    title="Tailwindcss"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img
     align="left" 
