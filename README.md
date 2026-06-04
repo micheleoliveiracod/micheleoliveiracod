@@ -5,6 +5,8 @@
 # Hello, welcome to my space! :gem:
 
 📈 I work with data analysis, visualization, and data science, creating predictive and prescriptive models using machine learning algorithms. I perform analyses of business, epidemiological, and biological data.
+I develop PaaS (Platform as a Service) platforms, focusing on data and business management.
+
 
 ## 🎓 Academic background
 
@@ -14,6 +16,9 @@ MBA in Technology for Business: AI, Data Science and Big Data - PUC RS Business 
 <br/>
 Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
 <br/>
+AI in the Software Development Process Course - SCTEC/SENAI
+<br/>
+AI Agents for Software Development and AI for Software Quality - SCTEC/SENAI
 <br/>
 
 ## 🌐 Languages ​​and Technologies
@@ -146,14 +151,6 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 />
-<img
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
 <br/>
 <br/> 
 <img
@@ -180,8 +177,73 @@ Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
+<img
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Supabase" 
+    title="Supabase"
+    width="25px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+/>
+<img
+    align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left" 
+    alt="React"
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left" 
+    alt="Tailwindcss"
+    title="Tailwindcss"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+<img
+    align="left" 
+    alt="Vite"
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"
+/>
+<img
+    align="left" 
+    alt="Node.js"
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
 <br/>
 <br/>
+
 ## 🗃️ List of repositories
 
 ### Analytics
