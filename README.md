@@ -252,29 +252,24 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
 <br/>
 <br/>
 
-## 🗃️ List of repositories
+## 🗃️ List of Repositories
 
 ### Analytics
-
-- [Hospital_data_case](https://github.com/micheleoliveiracod/Hospital_data_case)
+- [hospital-strategy](https://github.com/micheleoliveiracod/hospital-strategy)
 
 ### Machine Learning
-
-- [Case_analise_preditiva_churn](https://github.com/micheleoliveiracod/Case_analise_preditiva_churn)
-
-- [Case_analise_preditiva_credito](https://github.com/micheleoliveiracod/Case_analise_preditiva_credito)
+- [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction)
+- [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction)
+- 
 
 ### AI Agents & LLM's
-
 - 
 
 ### Epidemiology
-
-- [Case_COVID19_dados_clinicos_2025](https://github.com/micheleoliveiracod/Case_COVID19_dados_clinicos_2025)
+- [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025)
 
 ### Bioinformatics
-
-- [Pratica_alinhamento_DNA](https://github.com/micheleoliveiracod/Pratica_alinhamento_DNA)
+- [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
