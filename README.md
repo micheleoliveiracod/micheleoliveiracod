@@ -260,10 +260,9 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
 ### Machine Learning
 - [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction)
 - [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction)
-- 
 
 ### AI Agents & LLM's
-- 
+- [Biotec-Predict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict)
 
 ### Epidemiology
 - [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025)
