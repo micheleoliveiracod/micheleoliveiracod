@@ -256,6 +256,7 @@ AI Agents for Software Development and AI for Software Quality Course - SCTEC/SE
 
 ### Analytics
 - [hospital-strategy](https://github.com/micheleoliveiracod/hospital-strategy)
+- [agro-productivity](https://github.com/micheleoliveiracod/agro-productivity)
 
 ### Machine Learning
 - [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction)
