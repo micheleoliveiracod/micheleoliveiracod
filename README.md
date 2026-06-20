@@ -1,277 +1,75 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<div align="center">
+
+# Michele Oliveira
+
+**Data Analytics | Data Scientist | AI Agents & Web Developer | Bioinformatics**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-oliveira-875970376/)
+
 </div>
 
-# Hello, welcome to my space! :gem:
+---
 
-📈 I work with data analysis, visualization, and data science, creating predictive and prescriptive models using machine learning algorithms. I perform analyses of business, epidemiological, and biological data.
-I develop PaaS (Platform as a Service) platforms, focusing on data and business management.
+### About me
 
+***Education***
 
-## 🎓 Academic background
+- BSc Biomedical Sciences - Univali
+- Tecnlogis for Business: MBA in AI, Data Science & Big Data - PUCRS Business School
+- Postgraduate in Bioinformatics Applied to Health - PUC Minas
+- AI in Software Development Process - SCTEC/SENAI
+- AI Agents for Software Development and AI for Software Quality - SCTEC/SENAI
 
-Biomedical Sciences Degree - Univali
-<br/>
-MBA in Technology for Business: AI, Data Science and Big Data - PUC RS Business School
-<br/>
-Postgraduate Program in Bioinformatics Applied to Health - PUC Minas
-<br/>
-AI in the Software Development Process Course - SCTEC/SENAI
-<br/>
-AI Agents for Software Development and AI for Software Quality Course - SCTEC/SENAI
-<br/>
+---
 
-## 🌐 Languages ​​and Technologies
+### Tech Stack
 
-<img
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"             
-/>
-<img 
-    align="left" 
-    alt="RStudio" 
-    title="RStudio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"         
-/>
-<img
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
-/>
-<img
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
-/>
-<img
-    align="left" 
-    alt="Anaconda" 
-    title="Anaconda"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
-/>
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
-/>
-<img 
-    align="left" 
-    alt="NumPy" 
-    title="NumPy"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Plotly" 
-    title="Plotly"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Fastapi" 
-    title="Fastapi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Scikitlearn" 
-    title="Scikitlearn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Airflow" 
-    title="Airflow"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
-  />
-  <img
-    align="left"
-    alt="Spark"
-    title="Spark"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
-/>
-<br/>
-<br/> 
-<img
-    align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" 
-/>
-<img
-    align="left" 
-    alt="Google Data Studio" 
-    title="Google Data Studio"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/download/353809/google-data-studio.svg" 
-/>
-<img
-    align="left"
-    alt="Figma" 
-    title="Figma"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
-<img
-    align="left"
-    alt="Supabase" 
-    title="Supabase"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
-/>
-<img
-    align="left" 
-    alt="Javascript" 
-    title="Javascript"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left" 
-    alt="TailwindCSS"
-    title="TailwindCSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img
-    align="left" 
-    alt="React"
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left" 
-    alt="Vite"
-    title="Vite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"
-/>
-<img
-    align="left" 
-    alt="Node.js"
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<br/>
-<br/>
+**Data Science & ML**
 
-## 🗃️ List of Repositories
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Analytics
-- [hospital-strategy](https://github.com/micheleoliveiracod/hospital-strategy)
-- [agro-productivity](https://github.com/micheleoliveiracod/agro-productivity)
+**Data Engineering & Visualization**
 
-### Machine Learning
-- [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction)
-- [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### AI Agents & LLM's
-- [Biotec-Predict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict)
+**Learning Web Development**
 
-### Epidemiology
-- [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Bioinformatics
-- [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment)
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
+### Featured Projects
 
+| Area | Project | Description |
+|:-----|:--------|:------------|
+| **Analytics** | [hospital-strategy](https://github.com/micheleoliveiracod/hospital-strategy) | Strategic analysis of hospital data |
+| **Analytics** | [agro-productivity](https://github.com/micheleoliveiracod/agro-productivity) | Agricultural productivity analysis |
+| **Machine Learning** | [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction) | Customer churn prediction model |
+| **Machine Learning** | [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction) | Credit risk prediction model |
+| **AI Agents & Web Development** | [BiotecPredict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict) | AI-powered biotechnology predictions |
+| **Epidemiology** | [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025) | COVID-19 epidemiological analysis |
+| **Bioinformatics** | [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment) | DNA sequence alignment tools |
+
+---
+
+<img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=micheleoliveiracod&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" /><img height="125" src="https://github-readme-stats.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" /><img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleoliveiracod&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
