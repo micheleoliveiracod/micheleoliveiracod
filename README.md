@@ -2,7 +2,7 @@
 
 # Michele Oliveira
 
-**Data Analytics | Data Scientist | AI Agents & Web Developer | Bioinformatics**
+**Data Science | Analytics | AI Agents & Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-oliveira-875970376/)
 
@@ -11,6 +11,8 @@
 ---
 
 ### About me
+
+I work with business, epidemiological, and biological data to support strategic decisions. With experience in automation, process improvement, and project management. I transform complex data into information that generates measurable results, productivity, and innovation. I Learning Web Development (PaaS platforms), focusing on data and business management.
 
 ***Education***
 
