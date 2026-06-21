@@ -1,14 +1,10 @@
-<div align="center">
-
 # Michele Oliveira
 
 **Data Science | Analytics | AI Agents & Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-oliveira-875970376/)
+<img src="https://img.shields.io/badge/-%E2%80%8B-C9929B?style=flat-square&labelColor=C9929B" width="100%" height="3" />
 
 </div>
-
----
 
 ### About me
 
@@ -35,6 +31,12 @@ I work with business, epidemiological, and biological data to support strategic 
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+
 
 **Data Engineering & Visualization**
 
@@ -42,21 +44,24 @@ I work with business, epidemiological, and biological data to support strategic 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
 
 **Learning Web Development**
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -74,4 +79,4 @@ I work with business, epidemiological, and biological data to support strategic 
 
 ---
 
-<img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=micheleoliveiracod&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" /><img height="125" src="https://github-readme-stats.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" /><img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleoliveiracod&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=micheleoliveiracod&hide_border=true&background=0d1117&ring=C9929B&fire=C9929B&currStreakLabel=C9929B&sideLabels=C9929B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" /><img height="125" src="https://github-readme-stats.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9929B&icon_color=C9929B&text_color=c9d1d9&include_all_commits=true&count_private=true" /><img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheleoliveiracod&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9929B&text_color=c9d1d9" />
