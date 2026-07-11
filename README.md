@@ -2,7 +2,7 @@
 
 # Michele Oliveira
 
-**Data Science | Analytics | AI Agents & Automation**
+**Analytics | Data Science | AI Agents & Automation**
 
 <img src="https://img.shields.io/badge/-%E2%80%8B-C9929B?style=flat-square&labelColor=C9929B" width="100%" height="3" />
 
@@ -84,4 +84,4 @@ I work with business, epidemiological, and biological data to support strategic 
 
 ---
 
-<img height="125" src="https://github-readme-streak-stats.herokuapp.com/?user=micheleoliveiracod&hide_border=true&background=0d1117&ring=C9929B&fire=C9929B&currStreakLabel=C9929B&sideLabels=C9929B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" /> <img height="125" src="https://github-readme-stats.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9929B&icon_color=C9929B&text_color=c9d1d9&count_private=true" />
+<img height="125" src="https://streak-stats.demolab.com/?user=micheleoliveiracod&hide_border=true&background=0d1117&ring=C9929B&fire=C9929B&currStreakLabel=C9929B&sideLabels=C9929B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" /> <img height="125" src="https://github-readme-stats.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9929B&icon_color=C9929B&text_color=c9d1d9&count_private=true" />
