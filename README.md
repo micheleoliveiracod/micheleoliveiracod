@@ -78,10 +78,10 @@ I work with business, epidemiological, and biological data to support strategic 
 | **Analytics** | [agro-productivity](https://github.com/micheleoliveiracod/agro-productivity) | Agricultural productivity analysis |
 | **Machine Learning** | [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction) | Customer churn prediction model |
 | **Machine Learning** | [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction) | Credit risk prediction model |
-| **LLMs & Manufacturing** | [BiotecPredict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict) | Biotechnology risk prediction platform built with Claude Code |
+| **LLMs & Web Development** | [BiotecPredict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict) | Biotechnology risk prediction platform built with Claude Code |
 | **Epidemiology** | [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025) | COVID-19 epidemiological analysis |
 | **Bioinformatics** | [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment) | DNA sequence alignment tools |
-| **AI Agents & Quality** | [Root-Spector](https://github.com/micheleoliveiracod/Root-Spector) | AI agent for non-conformance handling and root cause investigation in production processes |
+| **AI Agents & Web Development** | [Root-Spector](https://github.com/micheleoliveiracod/Root-Spector) | AI agent for non-conformance handling and root cause investigation in production processes |
 
 ---
 
