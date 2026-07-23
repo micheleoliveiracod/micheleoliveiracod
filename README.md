@@ -15,7 +15,7 @@ I work with business, epidemiological, and biological data to support strategic 
 ***Education***
 
 - BSc Biomedical Sciences - Univali
-- Tecnlogis for Business: MBA in AI, Data Science & Big Data - PUCRS Business School
+- MBA in Tecnlogis for Business: AI, Data Science & Big Data - PUCRS Business School
 - Postgraduate in Bioinformatics Applied to Health - PUC Minas
 - AI in Software Development Process - SCTEC/SENAI
 - AI Agents for Software Development and AI for Software Quality - SCTEC/SENAI
