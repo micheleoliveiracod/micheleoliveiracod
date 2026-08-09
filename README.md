@@ -10,7 +10,8 @@
 
 ### About me
 
-I work with business, epidemiological, and biological data to support strategic decisions. With experience in automation, process improvement, and project management. I transform complex data into information that generates measurable results, productivity, and innovation. I Learning Web Development (PaaS platforms), focusing on data and business management.
+I work with business, epidemiological, and biological data to support strategic decisions. With experience in automation, process improvement, and project management. I transform complex data into information that generates measurable results, productivity, and innovation.
+Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in development: Grower, Maintainer.
 
 ***Education***
 
