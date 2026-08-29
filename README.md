@@ -55,6 +55,15 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 
 
 
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+
+
 **Learning Web Development**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -64,7 +73,6 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -84,5 +92,7 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 | **Bioinformatics** | [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment) | DNA sequence alignment tools |
 | **AI Agents & Web Development** | [Root-Spector](https://github.com/micheleoliveiracod/Root-Spector) | AI agent for non-conformance handling and root cause investigation in production processes |
 
----
+
+<img src="https://img.shields.io/badge/-%E2%80%8B-C9929B?style=flat-square&labelColor=C9929B" width="100%" height="3" />
+
 <img height="125" src="https://streak-stats.demolab.com/?user=micheleoliveiracod&hide_border=true&background=0d1117&ring=C9929B&fire=C9929B&currStreakLabel=C9929B&sideLabels=C9929B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" /> <img height="125" src="https://github-readme-stats-eta-three-61.vercel.app/api?username=micheleoliveiracod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9929B&icon_color=C9929B&text_color=c9d1d9&count_private=true" />
