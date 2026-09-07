@@ -85,15 +85,14 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 
 | Area | Project | Description |
 |:-----|:--------|:------------|
+| **ML & Web Development** | [BiotecPredict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict) | Biotechnology risk prediction platform built with Claude Code |
+| **AI Agents & Web Development** | [Root-Spector](https://github.com/micheleoliveiracod/Root-Spector) | AI agent for non-conformance handling and root cause investigation in production processes |
+| **Bioinformatics** | [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment) | DNA sequence alignment tools |
+| **Epidemiology** | [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025) | COVID-19 epidemiological analysis |
 | **Analytics** | [hospital-strategy](https://github.com/micheleoliveiracod/hospital-strategy) | Strategic analysis of hospital data |
 | **Analytics** | [agro-productivity](https://github.com/micheleoliveiracod/agro-productivity) | Agricultural productivity analysis |
 | **Machine Learning** | [churn-prediction](https://github.com/micheleoliveiracod/churn-prediction) | Customer churn prediction model |
 | **Machine Learning** | [credit-prediction](https://github.com/micheleoliveiracod/credit-prediction) | Credit risk prediction model |
-| **LLMs & Web Development** | [BiotecPredict](https://github.com/micheleoliveiracod/Projeto-avaliativo-M1-2-BiotecPredict) | Biotechnology risk prediction platform built with Claude Code |
-| **Epidemiology** | [COVID19-2025](https://github.com/micheleoliveiracod/COVID19-2025) | COVID-19 epidemiological analysis |
-| **Bioinformatics** | [DNA-alignment](https://github.com/micheleoliveiracod/DNA-alignment) | DNA sequence alignment tools |
-| **AI Agents & Web Development** | [Root-Spector](https://github.com/micheleoliveiracod/Root-Spector) | AI agent for non-conformance handling and root cause investigation in production processes |
-
 
 <img src="https://img.shields.io/badge/-%E2%80%8B-C9929B?style=flat-square&labelColor=C9929B" width="100%" height="3" />
 
