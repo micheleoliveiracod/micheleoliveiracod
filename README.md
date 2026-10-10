@@ -18,8 +18,7 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 - BSc Biomedical Sciences - Univali
 - MBA in Tecnlogis for Business: AI, Data Science & Big Data - PUCRS Business School
 - Postgraduate in Bioinformatics Applied to Health - PUC Minas
-- AI in Software Development Process - SCTEC/SENAI
-- AI Agents for Software Development and AI for Software Quality - SCTEC/SENAI
+- AI in Software Development Process, AI Agents and AI for Software Quality - SCTEC/SENAI
 
 ---
 
