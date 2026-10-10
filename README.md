@@ -24,7 +24,7 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 
 ### Tech Stack
 
-**Data Science & Bioinformatics**
+**Analytics and Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
