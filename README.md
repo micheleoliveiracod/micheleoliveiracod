@@ -17,7 +17,7 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 
 - BSc Biomedical Sciences - Univali
 - MBA in Tecnlogis for Business: AI, Data Science & Big Data - PUCRS Business School
-- Postgraduate in Bioinformatics Applied to Health - PUC Minas
+- Postgraduate in Bioinformatics Applied to Health - PUC Minas (in progress)
 - AI in Software Development Process, AI Agents and AI for Software Quality - SCTEC/SENAI
 
 ---
@@ -30,8 +30,6 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-8B5E3C?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Singularity](https://img.shields.io/badge/Singularity-5A2D82?style=flat-square)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
