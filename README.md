@@ -15,10 +15,10 @@ Well-developed archetypes: Prototyper, Builder, Sweeper. Archetypes in developme
 
 ***Education***
 
-- BSc Biomedical Sciences - Univali
 - MBA in Tecnlogis for Business: AI, Data Science & Big Data - PUCRS Business School
-- Postgraduate in Bioinformatics Applied to Health - PUC Minas (in progress)
 - AI in Software Development Process, AI Agents and AI for Software Quality - SCTEC/SENAI
+- Postgraduate in Bioinformatics Applied to Health - PUC Minas (in progress)
+- BSc Biomedical Sciences - Univali
 
 ---
 
